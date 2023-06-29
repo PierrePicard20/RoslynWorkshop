@@ -1,0 +1,16 @@
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\bin\Debug\net5.0\Aneo.Test.exe
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\bin\Debug\net5.0\Aneo.Test.deps.json
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\bin\Debug\net5.0\Aneo.Test.runtimeconfig.json
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\bin\Debug\net5.0\Aneo.Test.runtimeconfig.dev.json
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\bin\Debug\net5.0\Aneo.Test.dll
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\bin\Debug\net5.0\Aneo.Test.pdb
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\obj\Debug\net5.0\Aneo.Test.csproj.AssemblyReference.cache
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\obj\Debug\net5.0\Aneo.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\obj\Debug\net5.0\Aneo.Test.AssemblyInfoInputs.cache
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\obj\Debug\net5.0\Aneo.Test.AssemblyInfo.cs
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\obj\Debug\net5.0\Aneo.Test.csproj.CoreCompileInputs.cache
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\obj\Debug\net5.0\Aneo.Test.dll
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\obj\Debug\net5.0\refint\Aneo.Test.dll
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\obj\Debug\net5.0\Aneo.Test.pdb
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\obj\Debug\net5.0\Aneo.Test.genruntimeconfig.cache
+C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\obj\Debug\net5.0\ref\Aneo.Test.dll

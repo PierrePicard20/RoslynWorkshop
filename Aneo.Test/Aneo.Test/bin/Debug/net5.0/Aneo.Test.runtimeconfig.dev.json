@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ppicard\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ppicard\\.nuget\\packages"
+    ]
+  }
+}

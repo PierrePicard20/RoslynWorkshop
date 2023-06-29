@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Aneo.Analyzer/1.0.0": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "Aneo.Analyzer/1.0.0": {
+      "sha512": "UDse0pHSYw5eNvnL6naSJjnNipIpVUAbWFW0+Uo99hx64CqqSjvef+KiQvk1Ulp580G/njnH49Eml94Zd2BgAQ==",
+      "type": "package",
+      "path": "aneo.analyzer/1.0.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        "analyzers/dotnet/cs/Aneo.Analyzer.CodeFixes.dll",
+        "analyzers/dotnet/cs/Aneo.Analyzer.dll",
+        "aneo.analyzer.1.0.0.nupkg.sha512",
+        "aneo.analyzer.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Aneo.Analyzer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ppicard\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ppicard\\source\\repos\\Aneo.Test\\Aneo.Test\\Aneo.Test.csproj",
+      "projectName": "Aneo.Test",
+      "projectPath": "C:\\Users\\ppicard\\source\\repos\\Aneo.Test\\Aneo.Test\\Aneo.Test.csproj",
+      "packagesPath": "C:\\Users\\ppicard\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ppicard\\source\\repos\\Aneo.Test\\Aneo.Test\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ppicard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\ppicard\\source\\repos\\Aneo.Analyzer\\Aneo.Analyzer\\Aneo.Analyzer.Package\\bin\\Release\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Aneo.Analyzer": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
