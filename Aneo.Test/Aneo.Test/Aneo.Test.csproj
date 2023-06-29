@@ -10,10 +10,4 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
   </ItemGroup>
-  <ItemGroup>
-    <EditorConfigFiles Remove="C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\.editorconfig" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="C:\Users\ppicard\source\repos\Aneo.Test\Aneo.Test\.editorconfig" />
-  </ItemGroup>
 </Project>
